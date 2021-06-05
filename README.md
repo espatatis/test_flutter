@@ -6,5 +6,4 @@ A new Flutter project.
 
 ### To do
 - [x] "Hello world !"
-- [ ] Integrate Firebase
-- [ ] Create notifications
+- [ ] Build local notifications
